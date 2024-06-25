@@ -1,2 +1,2 @@
 # demop
-public demo project 
+public demo project Turjo
